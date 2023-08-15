@@ -84,3 +84,22 @@ del {
     text-decoration: line-through;
     color: red;
 }
+
+
+/* Estilos para imagenes */
+
+img {
+    width: auto;
+    height: 250px;
+}
+
+div.scroll-container {
+    background-color: #282a36;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+  
+div.scroll-container img {
+    padding: 10px;
+}
